@@ -1,0 +1,7 @@
+{
+  "name": "JanAssist - Multilingual AI Access Platform for India",
+  "description": "An inclusive AI platform supporting major Indian languages to help citizens access government schemes, healthcare, education, and technical services with ease.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
